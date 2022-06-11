@@ -1,8 +1,24 @@
 class script(object):
     START_TXT = """Hello {},
 My Name is <a href=https://t.me/{}>{}</a>, I'm Admin Of Grafx Design Group"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """<b>⚠️ Only Helps For
+Graphic Designers...!!!</b>
+〰〰〰〰〰〰〰〰〰〰〰
+
+• Fonts (Malayalam, English Arabic..Etc)
+• Png (typography, More Types)
+• HD Backgrounds ( in Shutterstock Premium Site )
+• Apk Files (Mods & Premium)
+• To resolve doubts
+
+〰〰〰〰〰〰〰〰〰〰〰〰〰
+
+👥 Support Group : <a href="https://t.me/Grafx_Design">Grafx Design</a>
+🗂 Files Channel : <a href="https://t.me/Grafx_Designs">Grafx Files</a>
+🗂 Resources Channel : <a href="https://t.me/GrafxResources">Grafx Resources </a>
+🗂 Backgrounds Channel : <a href="https://t.me/+JxvEpNHBGUQ0MGE1">Grafx Tools </a>
+🤖 Many Png Bot : <a href="https://t.me/Manypng_bot">Manypng Bot</a>
+🤖 Many bg Bot : <a href="https://t.me/Manypng_bot">Manybg Bot</a>"""
     ABOUT_TXT = """<b>About Me 😌
 
 ◉ My Name :  EinsteinZ Bot

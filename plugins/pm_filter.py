@@ -418,7 +418,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-        await query.answer('Piracy Is Crime')
+        await query.answer('ബെർതെ ഒരുരസം')
     elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('🏠 Home', callback_data='start'),

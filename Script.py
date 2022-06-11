@@ -1,17 +1,16 @@
 class script(object):
     START_TXT = """Hello {},
-My Name is <a href=https://t.me/{}>{}</a>, I'm Admin Of Grafx Design Group"""
+My Name is <a href=https://t.me/{}>{}</a>, I'm Admin Of <b>Grafx Design<\b> Group"""
     HELP_TXT = """<b>⚠️ Only Helps For
 Graphic Designers...!!!</b>
 〰〰〰〰〰〰〰〰〰〰〰
-
 • Fonts (Malayalam, English Arabic..Etc)
 • Png (typography, More Types)
 • HD Backgrounds ( in Shutterstock Premium Site )
 • Apk Files (Mods & Premium)
 • To resolve doubts
 
-〰〰〰〰〰〰〰〰〰〰〰〰〰
+<b>For more use our channels & bot</b>
 
 👥 Support Group : <a href="https://t.me/Grafx_Design">Grafx Design</a>
 🗂 Files Channel : <a href="https://t.me/Grafx_Designs">Grafx Files</a>

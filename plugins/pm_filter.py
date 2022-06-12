@@ -407,10 +407,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('💬 Helps & Services 💬', callback_data='help')
         ], [
             InlineKeyboardButton('🔖 Support', url='t.me/grafx_design'),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/Grafx_Designs')
+            InlineKeyboardButton('📢 Updates', url='https://t.me/Grafx_Files')
         ], [
             InlineKeyboardButton('👨‍💻 Mydev', url='t.me/mrdlx'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('📝 About', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(

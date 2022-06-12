@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('💬 Helps & Services 💬', callback_data='help')
         ], [
             InlineKeyboardButton('🔖 Support', url='t.me/grafx_design'),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/Grafx_Designs')
+            InlineKeyboardButton('📢 Updates', url='https://t.me/Grafx_files')
         ], [
             InlineKeyboardButton('👨‍💻 Mydev', url='t.me/mrdlx'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('📝 About', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('📢 Updates', url='https://t.me/Grafx_Files')
         ], [
             InlineKeyboardButton('👨‍💻 Mydev', url='t.me/mrdlx'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('📝 About', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

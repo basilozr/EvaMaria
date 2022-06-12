@@ -13,7 +13,7 @@ Graphic Designers...!!!</b>
 <b>For more use our channels & bot</b>
 
 👥 Support Group : <a href="https://t.me/Grafx_Design">Grafx Design</a>
-🗂 Files Channel : <a href="https://t.me/Grafx_Designs">Grafx Files</a>
+🗂 Files Channel : <a href="https://t.me/Grafx_Files">Grafx Channel</a>
 🗂 Resources Channel : <a href="https://t.me/GrafxResources">Grafx Resources </a>
 🗂 Backgrounds Channel : <a href="https://t.me/+JxvEpNHBGUQ0MGE1">Grafx Tools </a>
 🤖 Many Png Bot : <a href="https://t.me/Manypng_bot">Manypng Bot</a>
@@ -23,7 +23,7 @@ Graphic Designers...!!!</b>
 ◉ My Name :  EinsteinZ Bot
 ◉ My Boss : <a href="https://t.me/mrdlx">sūp̲êɾ ദാമു</a>
 ◉ Support : <a href="https://t.me/Grafx_Design">Grafx Design</a>
-◉ Updates : <a href="https://t.me/Grafx_Designs">Grafx Channel</a> 
+◉ Updates : <a href="https://t.me/Grafx_Files">Grafx Channel</a> 
 ◉ Server : Heroku
 ◉ Source Code : <a href="https://t.me/sanamkayinnmone/2">Click Here</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>

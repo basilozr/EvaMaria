@@ -21,7 +21,7 @@ Graphic Designers...!!!</b>
     ABOUT_TXT = """<b>About Me 😌
 
 ◉ My Name :  EinsteinZ Bot
-◉ My Boss : <a href="https://t.me/mrdlx">sūp̲êɾ ദാമു</a>
+◉ My Boss : <a href="https://t.me/mrdlx">Dāwôöd ഇബ്രാഹിം</a>
 ◉ Support : <a href="https://t.me/Grafx_Design">Grafx Design</a>
 ◉ Updates : <a href="https://t.me/Grafx_Files">Grafx Channel</a> 
 ◉ Server : Heroku
